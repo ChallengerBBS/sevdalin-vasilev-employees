@@ -1,0 +1,23 @@
+# .NET build output
+**/bin/
+**/obj/
+*.user
+
+# Visual Studio
+.vs/
+
+# Node.js
+node_modules/
+dist/
+
+# Vite cache
+.vite/
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
